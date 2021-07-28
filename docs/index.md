@@ -1,14 +1,14 @@
-## Sai Narasimha Vayilati
+# Sai Narasimha Vayilati
 
-### CAREER OBJECTIVE
+## CAREER OBJECTIVE
 Aiming for a responsible position in a renowned
 organization enables me to utilize my skill set to
 the fullest and grow professionally in achieving
 corporate goals.
 
-### WORK EXPERIENCE
+## WORK EXPERIENCE
 
-# Zoho Corporation - Member Technical staff
+### Zoho Corporation - Member Technical staff
 July 2020 - August 2021
 - Worked on face recognizance system and retrain model, using
 PyTorch framework and using this generated security entry system
@@ -21,26 +21,26 @@ catching theft event very easy by blocked list person.
 - Worked on LPR system using open vino framework and maintaining
 automatic DB for incoming and outgoing vehicles.
 
-# Zoho Corporation research and developer Intern
+### Zoho Corporation research and developer Intern
 Jan 2020 - June 2020
 Worked on TensorFlow and PyTorch framework and Intel open
 vino framework.
 Worked on retaining the models with custom datasets on GPU.
 
-# CDK Global software developer Intern
+### CDK Global software developer Intern
 May 2019 - December 2019
 - Automated auditing process for computerized vehicle registrations.
 Developed web application for CVR(computerized vehicle
 registration) using Python and PostgreSQL database.
 
-# BSNL Intern
+### BSNL Intern
 May 2018 - June 2018
 - I have acquired hands-on experience in mobile communication and
 implemented fireworks algorithms in the Antenna array.
 
-### PREVIOUS EDUCATION
+## PREVIOUS EDUCATION
 
-# KL Deemed to be University
+### KL Deemed to be University
 Bachelor of Technology in Electronics and Communications specialized in
 signal image processing
 - Ranked among the top 5% of the graduating class with a CGPA of
@@ -49,13 +49,13 @@ signal image processing
 - Core Member of the National Service Scheme(NSS)
 - Web designer and App Developer at KL-Radio.
 
-# KKR’S Gowtham Educational Institution
+### KKR’S Gowtham Educational Institution
 Class Salutatorian, graduated in 2016
 - Obtained CGPA 9.5
 - Captain of school Volleyball team (2016)
 - School pupil leader(SPL) (2014 to 2016)
 
-### ACHIEVEMENTS
+## ACHIEVEMENTS
 - Final Round Winner of Data Structure
 workshop cum Championship organized by IIT
 Roorkee held at Zonal center K L University.
@@ -76,7 +76,7 @@ Instruments.
 - Resource person in the national wide webinar
 on "Advanced Open-Source Database-PostgreSQL".
 
-### CERTIFICATE COURSES
+## CERTIFICATE COURSES
 - Sequence Models by DeepLearning and organized by Coursera.
 (Dec 2019 - Jan 2020)
 - Structuring Machine Learning projects by DeepLearning.(Jan
@@ -85,12 +85,11 @@ on "Advanced Open-Source Database-PostgreSQL".
 2020- March 2020)
 - Specialized in Web Designing includes five courses from the
 University of Michigan. (March 2020 - April 2020)
-- Android Application Development from IIT Hyderabad. (July
-2017)
+- Android Application Development from IIT Hyderabad. (July 2017)
 
-### ACADEMIC PROJECTS
+## ACADEMIC PROJECTS
 
-# Python Automation and Shell Scripting
+### Python Automation and Shell Scripting
 - Selenium to Automate Reputation check through sites like
 sucuri, Mxtoolbox and Cisco’s Talos, Zulu Zscaler which is used
 for everyday activities in the project.
@@ -107,7 +106,7 @@ updates on the production environment.
 TalosRules from Cisco Firepower IDS and pushing them across
 the open-source platform of the project ( Security Onion).
 
-# Sidelobe Level Algorithm Reduction using Fireworks 
+### Sidelobe Level Algorithm Reduction using Fireworks 
 The objective is to reduce the sidelobe level of the linear antenna
 array using the Fireworks algorithm.
 - Formulate an optimization to solve the beam pattern synthesis
@@ -116,7 +115,7 @@ problem in Linear.
 optimization performances of the SLL reductions and the fill
 rate was improved by 78.53%.
 
-# Big Five Personality Prediction from Social Media Data using Machine Learning Techniques
+### Big Five Personality Prediction from Social Media Data using Machine Learning Techniques
 The main goal of the project is to evaluate several machine learning
 models and obtain the best machine learning model that will be
 used to classify the big five personality traits of Twitter users. This
@@ -126,18 +125,18 @@ is done by:
 - Testing the models.
 - Evaluating performance measures
 
-### TECHNICAL SKILL SET
+## TECHNICAL SKILL SET
 
-# IT Skills:
+### IT Skills:
 - Python, Java, and C programming
 - PostgreSQL
 - CSS, HTML and React JS
-# Core Competencies:
+### Core Competencies:
 - TensorFlow, PyTorch and Intel open vino framework.
 - MatLab, NI-LabView
 - Verilog and VHDL Programming
 
-### PERSONALITY TRAITS
+## PERSONALITY TRAITS
 - Avid learnability
 - Social work enthusiast
 - Determination and Persistence
@@ -145,20 +144,20 @@ is done by:
 - Discipline
 - Teamwork and leadership
 
-### HOBBIES
+## HOBBIES
 - Coding educator
 - Badminton
 - Puzzle-solving
 - Travel and food blogging
 - Volleyball
 
-### LANGUAGES KNOWN
+## LANGUAGES KNOWN
 - English
 - Telugu
 - Hindi
 - Spanish - certified
 
-### GET IN TOUCH WITH ME
+## GET IN TOUCH WITH ME
 - Cell: +91 9676851144
 - Email: sainarasimha.vayilati@gmail.com
 - LinkedIn : Sai Narasimha Vayilati
