@@ -1,15 +1,34 @@
-## Welcome to GitHub Pages
+## Sai Narasimha Vayilati
 
-You can use the [editor on GitHub](https://github.com/sainarasimhav/sainarasimhavayilati/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### WORK EXPERIENCE
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Zoho Corporation - Member Technical staff
+July 2020 - August 2021
+Worked on face recognizance system and retrain model, using
+PyTorch framework and using this generated security entry system
+for campus login.
+Enhancing campus security with a Person re-identification system
+enables tracking personal details from person log in to logout of
+campus and helps track blocked list person. Then maintaining these
+details in DB so that querying person details will come in handy and
+catching theft event very easy by blocked list person.
+Worked on LPR system using open vino framework and maintaining
+automatic DB for incoming and outgoing vehicles.
+Zoho Corporation research and developer Intern
+Jan 2020 - June 2020
+Worked on TensorFlow and PyTorch framework and Intel open
+vino framework.
+Worked on retaining the models with custom datasets on GPU.
 
 ```markdown
 Syntax highlighted code block
+
+Zoho Corporation research and developer Intern
+Jan 2020 - June 2020
+Worked on TensorFlow and PyTorch framework and Intel open
+vino framework.
+Worked on retaining the models with custom datasets on GPU.
 
 # Header 1
 ## Header 2
