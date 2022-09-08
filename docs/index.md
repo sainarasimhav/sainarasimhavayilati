@@ -75,23 +75,6 @@ University of Michigan. (March 2020 - April 2020)
 
 ## ACADEMIC PROJECTS
 
-### Python Automation and Shell Scripting
-- Selenium to Automate Reputation check through sites like
-sucuri, Mxtoolbox and Cisco’s Talos, Zulu Zscaler which is used
-for everyday activities in the project.
-- Developed an Automation script for the client on Zscaler
-Security Risk checks, reduced clients workload of 8 hours each
-week.
-- Developed a solution for SLA management in ticketing tool (
-BMS Remedy ).
-- Whitelist and Blacklist of URLs in Cisco Ironport and ScanSafe
-devices.
-- Written Shell scripts for transfer of backups and running
-updates on the production environment.
-- Developed a Shell script for Parsing and retrieving Snort, Cisco
-TalosRules from Cisco Firepower IDS and pushing them across
-the open-source platform of the project ( Security Onion).
-
 ### Sidelobe Level Algorithm Reduction using Fireworks 
 The objective is to reduce the sidelobe level of the linear antenna
 array using the Fireworks algorithm.
@@ -101,26 +84,26 @@ problem in Linear.
 optimization performances of the SLL reductions and the fill
 rate was improved by 78.53%.
 
-### Big Five Personality Prediction from Social Media Data using Machine Learning Techniques
-The main goal of the project is to evaluate several machine learning
-models and obtain the best machine learning model that will be
-used to classify the big five personality traits of Twitter users. This
-is done by:
-- Building the machine learning models.
-- Training the models.
-- Testing the models.
-- Evaluating performance measures
+### Learning Management System
+- Developed a learning management system in which designed the front-end single-page application using the Angular framework.
+- Used NodeJs to build REST API for managing the queries and handling the data requests
+
+### Baseless mouse using IOT
+- Pitch and roll axis sensed by the accelerometer is analyzed by NODE MCU (esp 8266) IoT device.
+- Sensed parameters were transmitted to the computer to make a response in mouse cursor by python programming.
+
+### Web-based Game design
+- Created a web-based game using Java and LabView. Also implemented interactive leaderboard to display highscores.
+- Used abstracted methods to implement default functionality such as error and state logging and stored control states in configuration files.
 
 ## TECHNICAL SKILL SET
 
-### IT Skills:
-- Python, Java, and C programming
-- PostgreSQL
-- CSS, HTML and React JS
-### Core Competencies:
-- TensorFlow, PyTorch and Intel open vino framework.
-- MatLab, NI-LabView
-- Verilog and VHDL Programming
+### Languages:
+- Java, C, Python, HTML/CSS, JavaScript, SQL
+### Developer Tools:
+- Kafka, Redis, Saas Cloud, PostgreSQL, Ant, Tomcat, Nginx
+### Technologies/Frameworks:
+- Linux, .NET, GitHub, SpringBoot, Mickey FW
 
 ## PERSONALITY TRAITS
 - Avid learnability
@@ -133,15 +116,16 @@ is done by:
 ## HOBBIES
 - Coding educator
 - Badminton
+- Chess
 - Puzzle-solving
-- Travel and food blogging
-- Volleyball
+- Travel and Exploring
+- Cricket
 
 ## LANGUAGES KNOWN
 - English
 - Telugu
 - Hindi
-- Spanish - certified
+- Certified Spanish
 
 ## GET IN TOUCH WITH ME
 - Cell: +1 7184967725
