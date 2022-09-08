@@ -1,80 +1,66 @@
 # Sai Narasimha Vayilati
 
-## CAREER OBJECTIVE
-Aiming for a responsible position in a renowned
-organization enables me to utilize my skill set to
-the fullest and grow professionally in achieving
-corporate goals.
+## Summary
+Master’s student in computer engineering with two years of development experience with a demonstrated history in the
+Software Industry. My work involves proposing the best possible solutions for scalability problems and developing them.
 
 ## WORK EXPERIENCE
 
-### Zoho Corporation - Member Technical staff
-July 2020 - August 2021
-- Worked on face recognizance system and retrain model, using
-PyTorch framework and using this generated security entry system
-for campus login.
-- Enhancing campus security with a Person re-identification system
-enables tracking personal details from person log in to logout of
-campus and helps track blocked list person. Then maintaining these
-details in DB so that querying person details will come in handy and
-catching theft event very easy by blocked list person.
-- Worked on LPR system using open vino framework and maintaining
-automatic DB for incoming and outgoing vehicles.
+### Member Technical Staff - Zoho Corporation 
+July 2020 - June 2022
+- Software engineer in the back-end team builds features for Endpoint Central which is a cloud-based UEM solution for monitoring,
+managing, and remotely troubleshooting endpoints.
+- Improved the scalability of Endpoint Central by introducing load balancer and rate limiters for TCP, IP flow in the network, and
+application flow.
+- Specialized in Query optimization, Schema redesign, and database performance tuning.
+- Developed and integrated performance analyzer to monitor SQL traffic.
 
-### Zoho Corporation research and developer Intern
+### Research Intern - Zoho Corporation
 Jan 2020 - June 2020
-Worked on TensorFlow and PyTorch framework and Intel open
-vino framework.
-Worked on retaining the models with custom datasets on GPU.
+- Worked as a java full stack developer and introduced features for Desktop Central which is unified endpoint management and
+security solution that helps in managing servers, laptops, desktops, and smartphones from a central location.
+- Build, tested, deployed, and optimized SpringBoot REST APIs.
 
-### CDK Global software developer Intern
+### Software Developer Intern - CDK Global
 May 2019 - December 2019
-- Automated auditing process for computerized vehicle registrations.
-Developed web application for CVR(computerized vehicle
-registration) using Python and PostgreSQL database.
+- Automated auditing process for computerized vehicle registrations where workload reduces from an eight steps manual process to
+three steps automated process using .NET Framework and MSSQL.
+- Developed Restful APIs to perform CRUD Operations on MSSQL database using spring-boot.
 
-### BSNL Intern
+### Intern at Signal and Telecommunication Department - BSNL
 May 2018 - June 2018
-- I have acquired hands-on experience in mobile communication and
-implemented fireworks algorithms in the Antenna array.
+- Acquired hands-on experience in mobile communication and understand the flow from request for originating call to termination.
+- Developed GSM based digital weather system. Tracking temperature, light and humidity using three sensors and shared with the
+user using GSM modem.
 
 ## PREVIOUS EDUCATION
 
-### KL Deemed to be University
+### New York University
+Masters in Computer Engineering
+- Courses: Principles of Database Systems, Machine Learning, Embedded Systems.
+
+
+### KL University - GPA: 3.8/4.0 (9.34/10.0)
 Bachelor of Technology in Electronics and Communications specialized in
 signal image processing
-- Ranked among the top 5% of the graduating class with a CGPA of
-9.38/10.
-- President of literary club-Vachas (Giving voice to the voiceless).
-- Core Member of the National Service Scheme(NSS)
-- Web designer and App Developer at KL-Radio.
+- Courses: Artificial Neural Networks, Human-machine interaction, C programming, and Data structures, DBMS, Computer
+Architecture, Computer Networks, Object-oriented programming.
 
-### KKR’S Gowtham Educational Institution
-Class Salutatorian, graduated in 2016
-- Obtained CGPA 9.5
-- Captain of school Volleyball team (2016)
+### KKR’S Gowtham Educational Institution - GPA: 3.8/4.0 (9.5/10.0)
+High School
+- Captain of school Cricket team (2016)
 - School pupil leader(SPL) (2014 to 2016)
 
 ## ACHIEVEMENTS
-- Final Round Winner of Data Structure
-workshop cum Championship organized by IIT
-Roorkee held at Zonal center K L University.
-- Zonal winner at KL University for
-Cybersecurity Championship.
-- Merit in National Level Workshop cum
-Championship Quadcopter Development
-organized by Revert Technology, IIT Roorkee.
-- Awarded first in Poster Presentation in
-Samyak- Smart Cities 2K18.
-- Public relations lead for National level techno-
-management fest- 'Samyak.'
-- Specialized in web designing.
-- Certified Labview Associate Developer by
-National Instruments. Merit in the project
-exhibition event conducted by National
-Instruments.
-- Resource person in the national wide webinar
-on "Advanced Open-Source Database-PostgreSQL".
+- Resource person in the national wide webinar on "Advanced Open-Source Database-PostgreSQL".
+- Asia Finalists (Top 6) in the CDK Global Modern Apps Hackathon (Oct 2019)
+- Final Round Winner of Data Structure workshop cum Championship organized by IIT Roorkee held at Zonal center K L University.
+- Zonal winner at KL University for Cybersecurity Championship.
+- Merit in National Level Workshop cum Championship Quadcopter Development organized by Revert Technology, IIT Roorkee.
+- Awarded first in Poster Presentation in Zyothriya Smart Cities 2K18.
+- Public relations lead for National level techno management fest- 'Samyak.'
+- Certified Labview Associate Developer by National Instruments. Merit in the project exhibition event conducted by National Instruments.
+
 
 ## CERTIFICATE COURSES
 - Sequence Models by DeepLearning and organized by Coursera.
@@ -158,6 +144,6 @@ is done by:
 - Spanish - certified
 
 ## GET IN TOUCH WITH ME
-- Cell: +91 9676851144
-- Email: sainarasimha.vayilati@gmail.com
-- LinkedIn : Sai Narasimha Vayilati
+- Cell: +1 7184967725
+- Email: sv2448@nyu.edu
+- LinkedIn : [Sai Narasimha Vayilati](https://www.linkedin.com/in/sai-narasimha-vayilati/)
