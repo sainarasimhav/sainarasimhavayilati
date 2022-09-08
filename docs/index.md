@@ -100,8 +100,12 @@ rate was improved by 78.53%.
 
 ### Languages:
 - Java, C, Python, HTML/CSS, JavaScript, SQL
+
+
 ### Developer Tools:
 - Kafka, Redis, Saas Cloud, PostgreSQL, Ant, Tomcat, Nginx
+
+
 ### Technologies/Frameworks:
 - Linux, .NET, GitHub, SpringBoot, Mickey FW
 
@@ -125,7 +129,7 @@ rate was improved by 78.53%.
 - English
 - Telugu
 - Hindi
-- Certified Spanish
+- Spanish
 
 ## GET IN TOUCH WITH ME
 - Cell: +1 7184967725
